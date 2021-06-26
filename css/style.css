@@ -1,0 +1,9 @@
+﻿body {
+}
+.play-btn{
+    width: 50px;
+    position: relative;
+    top: -50%;
+    cursor: pointer;
+    transition: 0.5s;
+}
